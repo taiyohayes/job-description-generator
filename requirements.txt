@@ -1,0 +1,6 @@
+openai
+streamlit
+streamlit_float
+sklearn
+pandas
+dotenv
