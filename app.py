@@ -101,7 +101,7 @@ def adapt_content(description, job_title, years_of_experience, employment_type, 
 
 
 st.title("AI Agent - Job Description Generator")
-st.image('USC_image/USC_top_image.png', use_column_width=True)
+st.image('USC_top_image.png', use_column_width=True)
 
 option = st.selectbox("Generate a new job description or proofread an existing one?",
                       ("Generate New Job Description", "Proofread an existing job description"))
