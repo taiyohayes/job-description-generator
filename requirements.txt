@@ -3,4 +3,4 @@ streamlit
 streamlit_float
 scikit-learn
 pandas
-dotenv
+python-dotenv
