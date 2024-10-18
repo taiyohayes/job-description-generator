@@ -1,6 +1,6 @@
 openai
 streamlit
 streamlit_float
-sklearn
+scikit-learn
 pandas
 dotenv
