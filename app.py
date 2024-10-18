@@ -18,12 +18,12 @@ will derive the format and style.
 """
 
 import streamlit as st
-from scikit-learn.feature_extraction.text import CountVectorizer
-from scikit-learn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import os
 from openai import OpenAI
-from python-dotenv import load_dotenv
+from dotenv import load_dotenv
 
 # LOGGER = st.get_logger(__name__)
 load_dotenv()
