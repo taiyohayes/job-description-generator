@@ -23,7 +23,7 @@ from scikit-learn.metrics.pairwise import cosine_similarity
 import pandas as pd
 import os
 from openai import OpenAI
-from dotenv import load_dotenv
+from python-dotenv import load_dotenv
 
 # LOGGER = st.get_logger(__name__)
 load_dotenv()
